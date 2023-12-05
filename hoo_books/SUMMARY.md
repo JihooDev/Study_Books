@@ -1,3 +1,3 @@
 # Table of contents
 
-* [1. 타입스크립트](README.md)
+* [1. 자바스크립트의 한계](README.md)
